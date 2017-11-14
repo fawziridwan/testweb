@@ -2,4 +2,4 @@ learn git
 
 in local repository
 
-edit data
+edit data master
